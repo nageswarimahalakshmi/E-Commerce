@@ -3,7 +3,6 @@
 A premium, full-stack, responsive e-commerce storefront web application. The project features a React frontend client and an Express/Node.js backend server connecting to MongoDB Atlas for catalog storage and client orders tracking.
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-22c55e?style=for-the-badge)](https://nageswarimahalakshmi.github.io/E-Commerce)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/nageswarimahalakshmi/E-Commerce)
 [![Vite](https://img.shields.io/badge/Vite-React-FFD600?style=for-the-badge&logo=vite)](https://vite.dev)
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=for-the-badge&logo=mongodb)](https://mongodb.com)
 
