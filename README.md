@@ -14,7 +14,6 @@ A premium, full-stack, responsive e-commerce storefront web application. The pro
 
 **🔗 [https://nageswarimahalakshmi.github.io/E-Commerce](https://nageswarimahalakshmi.github.io/E-Commerce)**
 
-> ⚠️ **Note:** If you deploy to a different platform (Vercel, Render, Railway, Netlify, etc.), update this link with your actual deployment URL.
 
 
 ---
